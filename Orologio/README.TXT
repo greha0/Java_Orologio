@@ -1,0 +1,12 @@
+----------------------------------------------------------------------------------
+******** File README del progetto ********    Qui dovresti descrivere il progetto.
+Chi legge questo file, pur non sapendo nulla del progetto, dovrebbe ottenere tutte
+le informazioni di cui ha bisogno. Probabilmente le informazioni essenziali sono:
+----------------------------------------------------------------------------------
+
+NOME DEL PROGETTO: Orologio
+OBIETTIVO DEL PROGETTO Simulare un semplice orologio
+VERSIONE oppure DATA: 3 / 11 / 2024
+COME AVVIARE IL PROGETTO: 
+AUTORI: Greta Brugnatti 
+ISTRUZIONI PER L'UTENTE:

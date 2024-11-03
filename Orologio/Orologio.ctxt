@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Orologio
+comment0.text=\r\n\ Un\ semplice\ orologio\ in\ formato\ hh\:mm\:ss\r\n\ Utilizza\ il\ sistema\ orario\ di\ 24\ ore\r\n\ \r\n\ @author\ Greta\ Brugnatti\r\n\ @version\ 03/11/2024\r\n\ \r\n
+comment1.params=
+comment1.target=Orologio()
+comment1.text=\r\n\ Costruttore\ di\ un\ orologio\r\n
+comment2.params=h\ m\ s
+comment2.target=Orologio(int,\ int,\ int)
+comment2.text=\r\n\ \r\n\ Costruttore\ di\ un\ orologio\ dati\ i\ seguenti\ parametri\:\r\n\ @param\ h\ Ore\ desiderate\ (0<h<23)\r\n\ @param\ m\ Minuti\ desiderati\ (0<m<59)\r\n\ @param\ s\ Secondi\ desiderati\ (0<s<59)\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ \ \ \ Ritorna\ una\ stringa\ dell'orario\ in\ formato\ hh\:mm\:ss\r\n
+comment4.params=
+comment4.target=void\ tick()
+comment4.text=\r\n\ \r\n\ Aggiunge\ un\ secondo\ ai\ secondi\r\n\ \r\n
+comment5.params=s
+comment5.target=void\ ntick(int)
+comment5.text=\r\n\ \r\n\ Aggiunge\ n\ secondi\r\n\ @param\ s\ Numero\ di\ secondi\ da\ aggiungere\r\n\ \r\n
+numComments=6
